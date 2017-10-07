@@ -34,3 +34,22 @@ git merge development (there won't be any conflicts now)
 https://stackoverflow.com/questions/14168677/merge-development-branch-with-master
 
 
+------------additioal materials-------------------
+(3) Git
+https://www.youtube.com/watch?v=1zj0rT91UjA
+
+
+(4)SSH key setting up
+https://www.youtube.com/watch?v=6G1dZYMYAwY
+
+(5)Git code
+mkdir "directory name"
+
+git status --- check which branch currently work at 
+
+git branch -avv -- check all branches 
+
+git checkout -b test1 origin/test1 -- change from master branch to test1 branch 
+
+(6)Merge a git branch into master
+http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master

@@ -1,0 +1,36 @@
+
+Use github no branch
+
+setup a local folder
+
+setup a repository from github
+
+git clone 'the repository' to the folder you want
+
+git checkout master
+
+get pull (Merging an upstream repository into your fork)
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+
+for python,
+jupyter notebook
+
+do something
+
+git add the file you committed change
+
+git commit -am 'description'
+
+git push 
+
+git status (check status)
+
+
+how to merge local to master branch 
+
+git checkout master
+git merge development (there won't be any conflicts now)
+
+https://stackoverflow.com/questions/14168677/merge-development-branch-with-master
+
+
